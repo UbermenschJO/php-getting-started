@@ -4,6 +4,6 @@
   "repository": "https://github.com/UbermenschJO/php-getting-started",
   "addons": [{"plan": "cleardb:ignite"}],
   "scripts": {
-	  "postdeploy": "mysql < dump.sql"
+	  "postdeploy": "php setup.php"
   }
 }
