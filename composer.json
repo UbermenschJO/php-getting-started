@@ -1,5 +1,6 @@
 {
   "require" : {
+	  "php": "7.0.14",
     "silex/silex": "^2.0",
     "monolog/monolog": "^1.4",
     "twig/twig": "^1.8",
