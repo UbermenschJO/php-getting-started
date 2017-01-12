@@ -1312,7 +1312,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "7.0.14"
+        "php": "7.1.0"
     },
     "platform-dev": []
 }
